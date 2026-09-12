@@ -120,6 +120,8 @@ To return the application to its clean initial demonstration state at any time, 
 
 ## 🗒️ Author
 
-Manish Kapil
+Manish Kapil 
+
 Full Stack Web Developer 
+
 Intern ID - CITS2551
