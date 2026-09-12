@@ -115,3 +115,11 @@ The platform includes pre-configured personas for testing both roles:
 ## 🧪 Resetting Demo Data
 
 To return the application to its clean initial demonstration state at any time, click **"Reset Mock Data"** in the website footer.
+
+---
+
+## 🗒️ Author
+
+Manish Kapil
+Full Stack Web Developer 
+Intern ID - CITS2551
