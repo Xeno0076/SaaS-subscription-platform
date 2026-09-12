@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Subscription Platform",
+  "description": "A portfolio-ready SaaS subscription management and billing simulation platform with user dashboards, usage analytics, plan checkout, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
